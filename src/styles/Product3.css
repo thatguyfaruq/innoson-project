@@ -1,52 +1,51 @@
-.product-1 {
-  background-color: #ffffff;
-  width: 1181px;
-  height: 530px;
-  padding: 45px 47px 45px 47px;
-  gap: 48px;
-  opacity: 0px;
+.product-3 {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: #ffffff;
+  width: 1177px;
+  height: 530px;
+  padding: 45px;
+  gap: 48px;
+  opacity: 0px;
 }
-
-/* .innoson-suv {
+.innoson-bike {
   width: 552px;
   height: 440px;
   gap: 0px;
   opacity: 0px;
-} */
-
-.product1-box {
-  width: 487px;
-  height: 307px;
 }
 
-.product1-text h4 {
-  width: 442px;
-  height: 48px;
-  font-size: 35px;
-  font-weight: 500;
-  line-height: 47.67px;
-  text-align: center;
-  color: #365fa3;
-  /* padding-bottom: 4rem; */
+.product3-box {
+  width: 487px;
+  height: 283px;
+  gap: 44px;
+  opacity: 0px;
 }
 
-.product1-text p {
+.product3-text {
   width: 487px;
-  height: 144px;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 24px;
-  color: #0f0f0f;
-}
-
-.product1-text {
-  width: 487px;
-  height: 216px;
+  height: 192px;
   gap: 24px;
   opacity: 0px;
+}
+
+.product3-text h4 {
+  width: 442px;
+    height: 48px;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 47.67px;
+    text-align: center;
+    color: #365fa3;
+}
+..product3-text p{
+    width: 487px;
+      height: 144px;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 24px;
+      color: #0f0f0f;
 }
 
 button {

@@ -1,0 +1,21 @@
+.footer1 {
+  background-image: url(../assets/innoson-footer.png);
+  width: 1440px;
+  height: 510px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.footer1-text {
+  width: 1123px;
+  height: 164px;
+  padding-top: 173px;
+  padding-left: 158px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 81.72px;
+  color: #f7f7f7;
+  text-align: center;
+}
